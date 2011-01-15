@@ -13,14 +13,14 @@ This plugin streamlines the process of hipcast.com users to post their hipcast m
 
 == Installation ==
 
-To install this plugin, simply upload it to your into your wordpress plugins and you're good to go.
+To install this plugin, simply click the "Install Now" link then activate it in your installed plugins list.
 
 == Frequently Asked Questions ==
 
 How do I use the Hipcast Plugin?
 
-Once you've installed the plugin to your blog, simple login to your hipcast.com account and set up your blog. 
-Make sure you select the blog type to be WordPress and you check the Use Plugin option.
+Once you've installed the plugin to your blog, simply login to your hipcast.com account and set up your blog. 
+Make sure you select the blog type to be WordPress and you check the "Use Plugin" option.
 
 == Changelog ==
 
